@@ -4,7 +4,7 @@ Para rodar esse projeto, siga as instruções abaixo:
 
  - Clonar o repositório
 	 > **git clone**  <urlrepositório>
- - Copiar arquivo **.env.example**, e após renomear para **.env**
+ - Fazer uma cópia do arquivo **.env.example**, e após renomear para **.env**
  - Preencher o arquivo **.env** com as informações do banco, presentes no material da aula.
  - Rodar o comando yarn install
 	 > yarn install
